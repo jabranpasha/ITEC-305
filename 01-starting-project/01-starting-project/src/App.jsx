@@ -1,6 +1,6 @@
-import CoreConcept from "./CoreConcept.jsx";
-import UserData from "./UserData.jsx";
-import Header from "./Header.jsx";
+import CoreConcept from "./Components/CoreConcept.jsx";
+import UserData from "./Components/UserData.jsx";
+import Header from "./Components/Header.jsx";
 import { CORE_CONCEPTS } from "./data.js";
 
 function App() {

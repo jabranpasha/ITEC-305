@@ -7,7 +7,6 @@ function CoreConcept({ image, title, description }) {
             <p>{description}</p>
         </li>   
     );
-
-
 }
+
 export default CoreConcept;
